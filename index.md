@@ -9,7 +9,7 @@ Welcome to a world of (almost) enldless possibilities. Assemble your contraption
 <h2>You can't code!?</h2>
 Well I'd be ashamed if I were you. How to fix this? Ah Yes! With the programming language being very, very simple and I'm writing a lot of documentation, so when I'm done you'll be good to go :)
 <br>
-<h2>How can you follow the progress?</h2>
+<h3>How can you follow the progress?</h3>
 That's easy! Just subscribe to our youtube channel, even if you don't want, I don't care. 
 
 
