@@ -1,5 +1,5 @@
 <p style="text-align: center;">  
-<title>HyperOn</title>
+
 <h1>HyperOn</h1> 
 <i>An open work in progress that needs you to be excited.</i> <br>
 
