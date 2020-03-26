@@ -1,7 +1,7 @@
 <p style="text-align: center;">  
 <title>HyperOn</title>
 <h1>HyperOn</h1> 
-<h5>An open work in progress that needs you to be excited.</h5>
+_An open work in progress that needs you to be excited._ <br>
 Welcome to a world of (almost) enldless possibilities. Assemble your contraptions, make yourself a vehicle, create a building and hang out with your best buddies (aka "reeee multiplayer")! <br> With the power of code, you can make machines do any sort of weird thing you can think of, and HyperOn gives you the possibility to add programmable integrated circuits to the robo-rocket-microwave machine you've always wanted to create in VR.
 <br>
 
