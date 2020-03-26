@@ -1,6 +1,10 @@
 <p style="text-align: center;">  
-<h1>HyperOn</h1>
-Guess we're good to go. <br>
+<h1>HyperOn</h1> 
+
+<h1>Feel your imagination</h1>
+Guess we're good to go. 
+
+<br>
 
 
 
